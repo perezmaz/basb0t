@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e5cca5-9f49-41af-bb9e-c4e8370a1932" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/entrypoint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-scripts.json" beforeDir="false" afterPath="$PROJECT_DIR$/external-scripts.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Debian\home\mperez\applications\basb0t" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,6 +47,8 @@
       <option name="presentableId" value="Default" />
       <updated>1654763081774</updated>
       <workItem from="1654763084208" duration="1118000" />
+      <workItem from="1654768318238" duration="6000" />
+      <workItem from="1654780486048" duration="1235000" />
     </task>
     <servers />
   </component>
