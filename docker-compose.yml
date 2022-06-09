@@ -1,7 +1,0 @@
-version: '2'
-services:
-  hubot:
-    image: jordan/hubot-slack
-    command: -a slack
-    volumes:
-      - .:/hubot
