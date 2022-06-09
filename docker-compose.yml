@@ -1,0 +1,9 @@
+version: '2'
+services:
+  hubot:
+    image: jordan/hubot-slack
+    command: -a slack
+    environment:
+      HUBOT_SLACK_TOKEN: xoxb-3638412766819-3636821003062-LHwYdrRwbVIctH1OB9pu1we8
+    volumes:
+      - .:/hubot
