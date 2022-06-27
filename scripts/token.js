@@ -8,19 +8,19 @@ const applicationStatus = (robot) => {
     const checks = [
       {
         environment: 'production',
-        url: 'https://transport.api.basworld.com',
+        url: env.PRODUCTION_URL,
         token: env.PRODUCTION_TOKEN,
         secret: env.PRODUCTION_SECRET,
       },
       {
         environment: 'staging',
-        url: 'https://staging-transport.api.basworld.con',
+        url: env.STAGING_URL,
         token: env.STAGING_TOKEN,
         secret: env.STAGING_SECRET,
       },
       {
         environment: 'test6',
-        url: 'https://test6-transport.api.basworld.com',
+        url: env.TEST6_URL,
         token: env.TEST6_TOKEN,
         secret: env.TEST6_SECRET,
       },
